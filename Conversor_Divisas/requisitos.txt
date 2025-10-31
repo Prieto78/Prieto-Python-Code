@@ -1,0 +1,18 @@
+Requisitos específicos para este proyecto
+Instala usando: pip install -r requisitos.txt
+--- Dependencias de Manejo de Datos y Web ---
+requests: Usado para simular llamadas a APIs (Conversor, Seguidor, Clima)
+requests
+pandas: Usado para manipulación y análisis de datos (Panel, Seguidor, Conversor)
+pandas
+--- Dependencias de Visualización ---
+matplotlib: Usado para generar gráficos (Panel, Seguidor, Clima)
+matplotlib
+wordcloud: Usado para la generación de nubes de palabras (Nube_Palabras)
+wordcloud
+--- Dependencias de Utilidades de Imagen ---
+Pillow (PIL): Usado para manipular imágenes (Generador_ASCII)
+Pillow
+--- Dependencias de Interfaz Web (Solo si se usa Streamlit) ---
+streamlit: Usado para crear la interfaz web del Generador de Contraseñas
+streamlit
